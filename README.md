@@ -1,12 +1,28 @@
-# React + Vite
+# 🎓 TutorPlatform – Frontend-Only React UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**TutorPlatform** is a frontend-only UI project built with React and styled using TailwindCSS. It simulates a modern online tutoring platform, allowing users to explore s basic dashboard layouts — purely for design and layout demonstration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Key Features
 
-## Expanding the ESLint configuration
+- 🏠 **Home Page** – Clean landing page with platform intro
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+- 📱 **Responsive Design** – Fully responsive using TailwindCSS
+
+> ⚠️ *This project is UI-only. No backend, authentication, or database functionality is included.*
+
+---
+
+## 🛠 Tech Stack
+
+- **React.js**
+- **TailwindCSS**
+- **HTML5 & CSS3**
+- **JavaScript**
+- **Vite **
+**framer-motion**
+
+---
