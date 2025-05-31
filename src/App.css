@@ -1,0 +1,23 @@
+body{
+  body {
+    overflow-x: hidden;
+    height: 100vh; /* Ensure the body takes up the full viewport height */
+  }
+}
+
+
+.menusec ul li{
+  font-size: 1.3vw;
+  
+}
+.menusec ul li:hover{
+  color:blue;
+  cursor: pointer;
+}
+#signup{
+  font-size: 1.3vw;
+}
+#register{
+  font-size: 1.3vw;
+  
+}
